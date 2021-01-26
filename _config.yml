@@ -121,10 +121,10 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: flyingshare
-    repo: blog-comments
+    repo: gitalk
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: b024159b3f02a9b0a7c0
+        client_secret: 6fe38dd1fd4a844a2c03a0309dd6de28f6d5881e
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: flyingshare
