@@ -128,7 +128,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: flyingshare
-    repo: blog-comments
+    repo: gitalk
     clientID: b024159b3f02a9b0a7c0
     clientSecret: 6fe38dd1fd4a844a2c03a0309dd6de28f6d5881e
 # 在使用其它评论组件时可点击显示 Disqus
