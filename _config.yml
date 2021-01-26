@@ -5,11 +5,7 @@ baseurl:
 url: https://flyingshare.github.io/
 date_format: "ordinal"
 title: flyingshare
-subtitle: "::::::╗ ::╗   ::╗ ::::::╗
-::╔══::╗::║   ::║::╔════╝
-::::::╔╝::║   ::║::║  :::╗
-::╔══::╗::║   ::║::║   ::║
-::::::╔╝╚::::::╔╝╚::::::╔╝"
+subtitle: "::::::╗ ::╗   ::╗ ::::::╗\n::╔══::╗::║   ::║::╔════╝\n::::::╔╝::║   ::║::║  :::╗\n::╔══::╗::║   ::║::║   ::║\n::::::╔╝╚::::::╔╝╚::::::╔╝"
 description: "flyingshare"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/NanJing
