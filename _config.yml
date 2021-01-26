@@ -129,8 +129,8 @@ gitment:
 gitalk:
     owner: flyingshare
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: b024159b3f02a9b0a7c0
+    clientSecret: 6fe38dd1fd4a844a2c03a0309dd6de28f6d5881e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
