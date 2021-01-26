@@ -5,11 +5,11 @@ baseurl:
 url: https://flyingshare.github.io/
 date_format: "ordinal"
 title: USB
-subtitle: "  █████▒█    ██  ▄████▄   ██ ▄█▀       ██████╗ ██╗   ██╗ ██████╗
-▓██   ▒ ██  ▓██▒▒██▀ ▀█   ██▄█▒        ██╔══██╗██║   ██║██╔════╝
-▒████ ░▓██  ▒██░▒▓█    ▄ ▓███▄░        ██████╔╝██║   ██║██║  ███╗
-░▓█▒  ░▓▓█  ░██░▒▓▓▄ ▄██▒▓██ █▄        ██╔══██╗██║   ██║██║   ██║
-░▒█░   ▒▒█████▓ ▒ ▓███▀ ░▒██▒ █▄       ██████╔╝╚██████╔╝╚██████╔╝"
+subtitle: "██████╗ ██╗   ██╗ ██████╗
+██╔══██╗██║   ██║██╔════╝
+██████╔╝██║   ██║██║  ███╗
+██╔══██╗██║   ██║██║   ██║
+██████╔╝╚██████╔╝╚██████╔╝"
 description: "USB"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/NanJing
@@ -45,7 +45,7 @@ highlight_theme: github
 author: USB
 organization: 
 organization_url: 
-github_username: USB
+github_username: flyingshare
 location: NanJing, China
 email: 1102488623@qq.com
 
