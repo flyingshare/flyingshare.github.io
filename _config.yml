@@ -5,7 +5,15 @@ baseurl:
 url: https://flyingshare.github.io/
 date_format: "ordinal"
 title: flyingshare
-subtitle: "::::::╗ ::╗   ::╗ ::::::╗\n::╔══::╗::║   ::║::╔════╝\n"
+subtitle: 
+"
+        ██████╗ ██╗   ██╗ ██████╗
+        ██╔══██╗██║   ██║██╔════╝
+        ██████╔╝██║   ██║██║  ███╗
+        ██╔══██╗██║   ██║██║   ██║
+        ██████╔╝╚██████╔╝╚██████╔╝
+        ╚═════╝  ╚═════╝  ╚═════╝
+"
 description: "flyingshare"
 keywords: Java Android MDM
 timezone: Asia/NanJing
