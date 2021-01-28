@@ -5,13 +5,7 @@ baseurl:
 url: https://flyingshare.github.io
 date_format: "ordinal"
 title: flyingshare
-subtitle: "
-  █████▒█    ██  ▄████▄   ██ ▄█▀██████╗ ██╗   ██╗ ██████╗
-▓██   ▒ ██  ▓██▒▒██▀ ▀█   ██▄█▒ ██╔══██╗██║   ██║██╔════╝
-▒████ ░▓██  ▒██░▒▓█    ▄ ▓███▄░ ██████╔╝██║   ██║██║  ███╗
-░▓█▒  ░▓▓█  ░██░▒▓▓▄ ▄██▒▓██ █▄ ██╔══██╗██║   ██║██║   ██║
-░▒█░   ▒▒█████▓ ▒ ▓███▀ ░▒██▒ █▄██████╔╝╚██████╔╝╚██████╔╝
-"
+subtitle: "Always Stay Curious"
 description: "flyingshare"
 keywords: Java Android MDM
 timezone: Asia/NanJing
